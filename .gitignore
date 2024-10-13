@@ -1,0 +1,7 @@
+env
+gcloud.txt
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.idea
