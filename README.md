@@ -90,6 +90,9 @@ curl -X POST "https://price-80802959201.asia-south1.run.app" \
     "Distance_to_SanJose": 300.0
 }'
 
+
+
+---
 ## Response of the api
 {
     "predicted_price": 450000.0
