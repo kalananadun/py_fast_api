@@ -11,12 +11,6 @@ The base URL for the API is: https://price-80802959201.asia-south1.run.app
 
 ---
 
-## Authentication
-
-No authentication is required to use this API. You can start making requests without the need for API keys or login credentials.
-
----
-
 ## Request Format
 
 ### Request Body
@@ -91,12 +85,6 @@ curl -X POST "https://price-80802959201.asia-south1.run.app" \
 }'
 
 
-```python
----
-## Response of the api
-{
-    "predicted_price": 450000.0
-}
 
 
 
