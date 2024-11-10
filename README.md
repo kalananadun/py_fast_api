@@ -91,7 +91,7 @@ curl -X POST "https://price-80802959201.asia-south1.run.app" \
 }'
 
 
-
+```python
 ---
 ## Response of the api
 {
